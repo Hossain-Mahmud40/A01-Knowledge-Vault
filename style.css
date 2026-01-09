@@ -130,12 +130,13 @@ header button {
 
 /* Problem Section */
 .problem-section {
-  padding: 80px 120px;
+  /* padding: 80px 120px; */
+  margin: 64px 120px;
   background-color: #ffffff;
 }
 
 .problem-content {
-  max-width: 1200px;
+  /* max-width: 1200px; */
   margin: 0 auto;
   text-align: center;
 }
@@ -205,8 +206,10 @@ header button {
 
 /* Solution Section */
 .solution-section {
-  padding: 80px 120px;
+  /* padding: 80px 120px; */
+  margin: 64px 120px;
   background-color: #f9fafb;
+  border-radius: 16px;
 }
 
 .solution-content {
@@ -340,15 +343,14 @@ header button {
 
 /* CTA Section */
 .cta-section {
-  padding: 80px 120px;
-  background-color: #f3f4f6;
+  background-color: #fff;
+  text-align: center;
+  margin: 64px 120px;
 }
 
 .cta-content {
-  max-width: 800px;
-  margin: 0 auto;
   text-align: center;
-  background-color: #ffffff;
+  background-color: #f7f6f2;
   padding: 60px 80px;
   border-radius: 16px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
