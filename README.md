@@ -1,4 +1,3 @@
-### ✅ Main Requirements
 ### 🔹 Navbar Section
 
 ![Navbar Section](Sections/Navbar.png)
